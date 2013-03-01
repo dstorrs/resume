@@ -1,0 +1,95 @@
+﻿David K. Storrs
+
+dstorrs.public+job@gmail.com
+(415) 913-7576
+
+
+SUMMARY
+15+ years software development experience
+Architect and code author,  team lead, and manager with both strategic and tactical experience
+Extensive knowledge of Perl, Node, Javascript, MongoDB and various RDBMSs 
+	Github:  http://github.com/dstorrs  [cf Copper in particular]
+	
+SKILLS
+Programming:		Perl; Javascript; Objective-C, C/C++ , PHP, Ruby, various others
+Operating Systems: 	UNIX, Mac OS X
+Databases:		MySQL, PostgreSQL, SQLite, Oracle
+Web: 			HTML, CSS, Javascript, jQuery, Catalyst, Node.js, Ruby / Rails
+Management: 	Experience at all levels of the organization: CEO / CTO, architect, team lead, team member.  Specific skills include:  strategic planning, time and cost estimation, scheduling, technical to non-technical communication, documentation, and mentoring of on- and off-site subordinates.  Preference for Agile methodologies.
+
+EXPERIENCE
+
+5/2010-2/2013	ChannelMeter Inc					        San Francisco, CA		        
+	Co-Founder and CTO.  Analytics for YouTube publishers.
+	Perl, Catalyst, SQL, git.  Later migrated to Go + Ruby/Rails, and MongoDB to ease hiring.
+
+5/2008-4/2010	IonZero LLC						        NY, NY
+	Senior Developer.  Worked on various client projects.
+	Perl, Catalyst,  SQL on various RDBMSs, Git and Subversion.
+
+01/2008-5/2008	Pica9, Inc						         NY, NY
+	Director of Programming, Managed and trained development team and wrote code on business-critical applications.
+	Perl and PHP, Catalyst, Subversion, MySQL
+
+11/2005-9/2007	Wotan LLC						         Southport, Connecticut	
+	CEO and Founder.  Web-based network graph diagramming.
+	Secured $800,000 in angel funding, managed a team, released two products (Kayuda and KayudaMaps).
+
+10/2003-11/2005	OnyxNeon						         Shelton, Connecticut
+	CT Regional Affiliate. Wrote code, did business development, managed subcontractors, wrote specifications.  
+Perl, C++, Catalyst, SQL, XML, Subversion, various RDBMSs; platform varied by project 
+
+10/2002-10/2003	  Flexi International					         Shelton, Connecticut
+Manager of Custom Projects; Liased with customers, programmed, wrote specs & documentation, and managed the development team on thoseissues.
+C++, XML, Rational ClearCase/Quantify/Purify/Rose, Development on Windows 98 
+
+8/2002-10/2002	Yale University                                                                                   New Haven, Connecticut
+Contract work; reverse engineered their proprietary database and migrated it to Oracle.  Helped select the vendor to provide the new data maangement system.  Managed a subcontractor.
+Perl, XML, Agile Development on Unix, contact with and technical evaluation of vendors
+
+
+
+
+
+
+3/2001-6/2002	AdOne/PowerOne Media Inc                                                                  New York, New York
+Senior Developer / Team Lead on a project to update the company's technology to enterprise quality.  Analyzed existing systems for failure points; designed and built solutions.  Rearchitected workflows for migration from flat file database to Oracle.  Introduced Pair Programming, Test First Design, Unit Testing, Refactoring, and Iteration Planning.  Managed a team of four programmers.
+Oracle, C++, Perl, XML, STL, CVS, Agile Development on Unix 
+
+1/2000-12/2000	Miacomet /Katerra Corp                                                              Springfield, Massachussetes
+Developer on the zVerse project, Team Lead on Real Feel Fishin’ game.
+C++, Perl, STL, CVS on Win2K/Win98.
+
+7/1999-12/1999          Maine School of Science and Mathematics                                            Limestone, Maine
+Taught physics and computer science to gifted high school students
+Worked at two separate summer programs, teaching HTML and virtual reality coding.
+
+11/1998-6/1999          Playlink (UGO/ActionWorld)                                                                 New York, New York
+Developer on a team producing a Java-based Web gamesite. Designed, documented, implemented, and maintained games and game components.
+Java, Perl, CVS on Win98
+
+7/1998-11/1998          Register.com                                                                                             New York, New York
+Developer and co-designer on the mission-critical backend infrastructure.  Also maintained legacy code and managed contractors.
+Perl, database design, MySQL, PostgreSQL, HTML, CVS
+
+2/1998-7/1998	D.I.D.Inc,                                                                                                  New York, New York
+Developer on the Electronic Documentation System (Paine Webber), and the Java Desktop (inhouse)
+Perl, Java, CVS on Win95
+
+11/1997-2/1998           CCG Metamedia                                                                                      New York, New York
+Game Developer for a virtual-reality system.
+C++
+
+8/1995-11/1997	Crossover Technologies                                                                           New York, New York
+Developer on a CD-based RTS game (Evolution), and two Web games Reinventing America I and II, and President '96 
+RDBMS design, FoxPro 3.2, C++, MS Sourcesafe, MFC on Win95
+
+6/1994-6/1995	Evaluation Associates, Inc                                                                      Norwalk, Connecticut
+Financial analyst in the Performance Measurement department.  Tracked, verified, and reported on the performance of various money managers
+
+EDUCATION
+9/1990-6/1994	Oberlin College                                                                                                     Oberlin, Ohio 
+    Studied English and Computer Science, graduated in May 1994 (Bachelor's degree).
+
+References available upon request
+
